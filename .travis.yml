@@ -1,6 +1,6 @@
 language: python
 python:
 - '3.8'
-script: python test.py
+script: python print_text.py
 env:
  - PRINTINT: "Test"
