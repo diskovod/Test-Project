@@ -3,4 +3,4 @@ python:
 - '3.8'
 script: python print_text.py
 env:
- - PRINTINT: "Test"
+ - PRINTIT: "Test"
